@@ -16,3 +16,7 @@ npm install body-parser
 npm install express-handlebars
 
 npm install mysql
+
+Para iniciar a Api digite no terminal:
+
+npm start
